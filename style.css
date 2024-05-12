@@ -1,0 +1,81 @@
+.container{
+    background-color:whitesmoke;
+    display:flex;
+    
+}
+.sh{
+    background-color: white;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 50px 50px 50px 50px;
+    border-radius:10px 10px;
+    width: 1200px;
+    height:535px;
+   
+}
+img{width: 100%;
+    height:180px;
+    border-radius: 10px 10px 0px 0px;
+    
+   }
+   
+
+    
+.ear{
+    background-color:white;
+    border: 1px solid black;
+    margin: 50px 50px 50px 50px;
+    border-radius: 10px 10px;
+    width: 1200px;
+    height:535px;
+    }
+    img{width: 100%;
+        height:180px;
+        border-radius: 10px 10px 0px 0px;
+        
+       }
+    
+
+  .wat{background-color: white;
+    border: 1px solid black;
+    margin: 50px 50px 50px 50px;
+    border-radius: 10px 10px;
+    width: 1200px;
+    height:535px;
+   
+    }
+    img{width: 100%;
+        height:180px;
+        border-radius: 10px 10px 0px 0px;
+        
+       }
+   
+    .phn{background-color: white;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 50px 50px 50px 50px;
+        border-radius: 10px 10px;
+        width: 1200px;
+         height:535px;
+   
+    }
+    img{width: 100%;
+        height:180px;
+        border-radius: 10px 10px 0px 0px;
+        
+       }
+    
+    
+
+    .BB{background-color:rgb(7, 1, 1);
+        padding: 20px 20px;
+    text-align: center;
+    font-size: 16px;
+    color: aliceblue;
+    border-radius: 0px 0px 10px 10px;
+    height: 10px;
+   
+    
+}
+
+h1{text-align: center;}
+p{text-align: center;}
+h2{text-align: center;}
